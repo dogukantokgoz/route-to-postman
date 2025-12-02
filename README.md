@@ -62,3 +62,4 @@ The collection will be saved to `storage/postman/route_collection.json`. Import 
 ## License
 
 [MIT](./LICENSE)
+
