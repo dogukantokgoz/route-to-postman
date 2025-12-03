@@ -2,6 +2,8 @@
 
 Generate organized Postman collections directly from your Laravel routes with intelligent automation.
 
+![Route to Postman](https://i.imgur.com/hewTR1I.png)
+
 ## Features
 
 ### 📂 Smart File Structure
