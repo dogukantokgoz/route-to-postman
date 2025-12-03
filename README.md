@@ -40,7 +40,7 @@ The script expects the token to be in `data.token`. Example:
 ## Installation
 
 ```bash
-composer require dogukantokgoz/route-to-postman --dev
+composer require dogukantokgoz/route-to-postman
 ```
 
 Publish the configuration file:
